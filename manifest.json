@@ -1,0 +1,28 @@
+{
+  "short_name": "V2X Locator",
+  "name": "V2X Locator",
+  "icons": [
+    {
+      "src": "icon/app_icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon/app_icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon/app_icon_s.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "scope": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#f0f0f0",
+  "background_color": "#f0f0f0"
+}
