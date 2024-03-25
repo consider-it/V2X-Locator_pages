@@ -3,21 +3,9 @@
   "name": "V2X Locator",
   "icons": [
     {
-      "src": "icon/app_icon.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "icon/app_icon.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "icon/app_icon_s.png",
-      "sizes": "72x72",
-      "type": "image/png",
-      "purpose": "maskable"
+      "src": "icon/cit_logo.svg",
+      "sizes": "48x48 72x72 96x96 128x128 256x256 512x512",
+      "type": "image/svg+xml"
     }
   ],
   "scope": "/",
